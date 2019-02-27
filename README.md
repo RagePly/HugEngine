@@ -1,2 +1,2 @@
 # HugEngine
-A game engine in java
+A graphics engine in c++
